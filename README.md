@@ -36,7 +36,7 @@ I specialize in organizing chaos—whether it's cleaning complex datasets in Pyt
 #### 🎀 [Barbie Brand & Market Analysis](Link_do_kodu_jesli_masz_ewentualnie_usun)
 An end-to-end data analysis project exploring the 65-year history of the Barbie brand and the "Barbenheimer" phenomenon.
 * **Tech:** Python (Pandas, Matplotlib), Kaggle Datasets, Google Trends API.
-* **Highlights:** Analyzed Mattel's stock performance and visualized the gender distribution of characters in animated movies.
+* **Highlights:** Analyzed the correlation between the Barbie brand's global popularity and Mattel's financial performance, proving the impact of key cultural events like "Barbenheimer" on stock value.
 * **Design:** Final report designed in Canva adhering to the official brand identity.
 
 📄 **[View Full Presentation (PDF)](https://github.com/mzntk/barbie/blob/main/barbie-pitchdeck.pdf)**
@@ -49,4 +49,4 @@ An end-to-end data analysis project exploring the 65-year history of the Barbie 
 * **LinkedIn:** [www.linkedin.com/in/maja-zontek](LINK_DO_LINKEDIN)
 * **Email:** [zontekmaja@gmail.com](mailto:zontekmaja@gmail.com)
 
-![Maja's GitHub stats](https://github-readme-stats.vercel.app/api?username=TWOJ_USERNAME&show_icons=true&theme=radical)
+![Maja's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzntk&show_icons=true&theme=radical)
