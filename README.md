@@ -1,6 +1,6 @@
 ### Hi there, I'm Maja! 👋
 
-[cite_start]I am a **Mathematical Modelling and Data Analysis** student at the University of Gdańsk[cite: 23], bridging the gap between **analytical thinking** and **creative problem-solving**.
+I am a **Mathematical Modelling and Data Analysis** student at the University of Gdańsk, bridging the gap between **analytical thinking** and **creative problem-solving**.
 
 I specialize in organizing chaos—whether it's cleaning complex datasets in Python or optimizing operational workflows in a fast-paced environment.
 
@@ -10,7 +10,7 @@ I specialize in organizing chaos—whether it's cleaning complex datasets in Pyt
 
 * 🔭 **I’m currently working on:** Data visualization projects that combine hard data with storytelling (like my Barbie Brand Analysis!).
 * 🌱 **I’m currently learning:** Advanced **SQL**, **Power BI**, and automation techniques.
-* [cite_start]💼 **Experience:** My background includes **Marketing Operations** and **Project Management** (Student Council President)[cite: 17].
+* 💼 **Experience:** My background includes **Marketing Operations** and **Project Management** (Student Council President).
 * ⚡ **Superpower:** I can facilitate a meeting with 100+ people, analyze a dataset in Pandas, and design a beautiful presentation in Canva—all in one day.
 
 ---
@@ -41,10 +41,6 @@ An end-to-end data analysis project exploring the 65-year history of the Barbie 
 
 📄 **[View Full Presentation (PDF)](./Barbie_Presentation.pdf)**
 
-#### 🏥 **Medical Data Process Digitization**
-Designed and implemented a digital tracking system for histopathology results in a medical clinic.
-* **Impact:** Replaced inefficient paper workflows, reducing data retrieval time by approx. 80%.
-* **Skills:** Process Optimization, Logic, Database Management.
 
 ---
 
