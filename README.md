@@ -39,7 +39,7 @@ An end-to-end data analysis project exploring the 65-year history of the Barbie 
 * **Highlights:** Analyzed Mattel's stock performance and visualized the gender distribution of characters in animated movies.
 * **Design:** Final report designed in Canva adhering to the official brand identity.
 
-📄 **[View Full Presentation (PDF)](./Barbie_Presentation.pdf)**
+📄 **[View Full Presentation (PDF)](https://github.com/mzntk/barbie/blob/main/barbie-pitchdeck.pdf)**
 
 
 ---
