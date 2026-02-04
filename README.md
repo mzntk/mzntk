@@ -23,6 +23,7 @@ I combine technical skills in **Python and Excel** with practical experience in 
 ![Gretl](https://img.shields.io/badge/Gretl-A52A2A?style=for-the-badge&logoColor=white)
 ![GeoDa](https://img.shields.io/badge/GeoDa-008080?style=for-the-badge&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 **Tools & Visualization:**
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
