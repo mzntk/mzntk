@@ -1,17 +1,12 @@
-### Hi there, I'm Maja! 👋
+### About Me
 
-I am a **Mathematical Modelling and Data Analysis** student at the University of Gdańsk, bridging the gap between **analytical thinking** and **creative problem-solving**.
+Final-year **Mathematical Modelling student** passionate about data analysis and project management. 
 
-I specialize in organizing chaos—whether it's cleaning complex datasets in Python or optimizing operational workflows in a fast-paced environment.
+I combine technical skills in **Python and Excel** with practical experience in **event organization** and **marketing operations**. I am detail-oriented, highly organized, and always looking for ways to optimize processes.
 
----
-
-### 👩‍💻 About Me
-
-* 🔭 **I’m currently working on:** Data visualization projects that combine hard data with storytelling (like my Barbie Brand Analysis!).
-* 🌱 **I’m currently learning:** Advanced **SQL**, **Power BI**, and automation techniques.
-* 💼 **Experience:** My background includes **Marketing Operations** and **Project Management** (Student Council President).
-* ⚡ **Superpower:** I can facilitate a meeting with 100+ people, analyze a dataset in Pandas, and design a beautiful presentation in Canva—all in one day.
+* 📍 **Based in:** Gdańsk, Poland
+* 🎓 **Education:** University of Gdańsk (Class of 2027)
+* 💻 **Interests:** Pop Culture Analytics (Barbenheimer!), Data Storytelling, Visual Design.
 
 ---
 
