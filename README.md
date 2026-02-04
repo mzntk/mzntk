@@ -1,4 +1,6 @@
-### About Me
+### Hi there, I'm Maja! 👋
+
+**About Me**
 
 Final-year **Mathematical Modelling student** passionate about data analysis and project management. 
 
