@@ -19,7 +19,10 @@ I combine technical skills in **Python and Excel** with practical experience in 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![SageMath](https://img.shields.io/badge/SageMath-253E6D?style=for-the-badge&logoColor=white)
+![Gretl](https://img.shields.io/badge/Gretl-A52A2A?style=for-the-badge&logoColor=white)
+![GeoDa](https://img.shields.io/badge/GeoDa-008080?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 **Tools & Visualization:**
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
