@@ -34,7 +34,7 @@ I combine technical skills in **Python and Excel** with practical experience in 
 
 ### 📊 Featured Projects
 
-#### 🎀 [Barbie Brand & Market Analysis](Link_do_kodu_jesli_masz_ewentualnie_usun)
+#### 🎀 [Barbie Brand & Market Analysis](https://github.com/mzntk/barbie)
 An end-to-end data analysis project exploring the 65-year history of the Barbie brand and the "Barbenheimer" phenomenon.
 * **Tech:** Python (Pandas, Matplotlib), Kaggle Datasets, Google Trends API.
 * **Highlights:** Analyzed the correlation between the Barbie brand's global popularity and Mattel's financial performance, proving the impact of key cultural events like "Barbenheimer" on stock value.
