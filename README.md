@@ -47,5 +47,5 @@ An end-to-end data analysis project exploring the 65-year history of the Barbie 
 
 ### 📫 Let's Connect!
 
-* **LinkedIn:** [www.linkedin.com/in/maja-zontek](LINK_DO_LINKEDIN)
+* **LinkedIn:** [Maja Zontek](www.linkedin.com/in/maja-zontek)
 * **Email:** [zontekmaja@gmail.com](mailto:zontekmaja@gmail.com)
