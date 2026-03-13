@@ -2,7 +2,7 @@
 
 **About Me**
 
-Final-year **Mathematical Modelling student** passionate about data analysis and project management. 
+Second year **Mathematical Modelling and Data Analysis student** passionate about data analysis and project management. 
 
 I combine technical skills in **Python and Excel** with practical experience in **event organization** and **marketing operations**. I am detail-oriented, highly organized, and always looking for ways to optimize processes.
 
